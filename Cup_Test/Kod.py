@@ -1,0 +1,1 @@
+Print.("Krásný Köd")
