@@ -1,1 +1,1 @@
-Print.("Krásný Köd")
+Print.("Krásný Köd2")
