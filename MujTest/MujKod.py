@@ -1,0 +1,1 @@
+print("toto je muj novy kod")
